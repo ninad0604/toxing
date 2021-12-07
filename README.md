@@ -1,7 +1,9 @@
-# ::Toxing::
+# Toxing
 
-#### ::Testing is awesome with tox and GH Actions !!:: 😎
+#### Testing is awesome with tox and GH Actions !! 😎
 
-::This repository is only created to test tox and its integration with:: [::GH Actions::](https://github.com/features/actions)
+![Build](https://github.com/ninad0604/toxing/actions/workflows/tests.yml/badge.svg)
 
-::Original work by:: [::James Murphy::](https://github.com/mCodingLLC)
+This repository is only created to test tox and its integration with:: [GH Actions](https://github.com/features/actions)
+
+Original work by [James Murphy](https://github.com/mCodingLLC)
