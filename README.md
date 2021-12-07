@@ -2,7 +2,7 @@
 
 #### Testing is awesome with tox and GH Actions !! 😎
 
-![Build](https://github.com/ninad0604/toxing/actions/workflows/tests.yml/badge.svg)
+![build](https://github.com/ninad0604/toxing/actions/workflows/tests.yml/badge.svg)
 
 This repository is only created to test tox and its integration with:: [GH Actions](https://github.com/features/actions)
 
